@@ -6,7 +6,7 @@ Details about the Dataset
 o	Data derived from the Ames City Assessor’s Office.
 o	Initially contained 3,970 observations, later refined to include only residential sales with no duplicate entries.
 2.	Features:
-o	Continuous Variables (20):
+o	Continuous Variables (20): <br>
 	Represent various area dimensions such as total basement area, ground-level living area, and lot size.
 	Provide extensive numerical data for regression analysis.
 o	Discrete Variables (14):
