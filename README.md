@@ -1,10 +1,10 @@
-Introduction to the Project
+**Introduction to the Project**
+
 The Ames Housing dataset is a comprehensive collection of real estate data from Ames, Iowa, detailing property sales between 2006 and 2010. This dataset offers a robust alternative to the Boston Housing dataset for regression and predictive modeling tasks. With 2,930 observations and 80 features, it provides a detailed view of various attributes influencing house sales, such as physical dimensions, quality ratings, and environmental conditions. The goal of this project is to leverage this dataset to build models that can accurately predict housing prices, analyze influential factors, and explore statistical relationships between property attributes and sale prices.
  
-Details about the Dataset
+**Details about the Dataset**
 1.	Source:
-o	Data derived from the Ames City Assessor’s Office.
-o	Initially contained 3,970 observations, later refined to include only residential sales with no duplicate entries.
+Data derived from the Ames City Assessor’s Office. Initially contained 3,970 observations, later refined to include only residential sales with no duplicate entries.
 2.	Features:
 o	Continuous Variables (20): <br>
 	Represent various area dimensions such as total basement area, ground-level living area, and lot size.
@@ -26,5 +26,5 @@ o	Suitable for tasks like feature engineering, regression analysis, and model ev
 6.	Available Formats:
 o	Data is available in Excel and text formats, with additional documentation explaining variable details.
  
-Conclusion
+**Conclusion**
 This dataset provides a rich and versatile framework for exploring regression modeling, making it an excellent choice for academic and professional projects in data science and real estate analytics. Its diverse range of features and practical relevance ensure a realistic and engaging experience for statistical modeling
